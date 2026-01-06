@@ -1,0 +1,2 @@
+draw(self, args: tuple[pygame.Surface]) -> None: draw on the screen
+handle_event(self, args: tuple[pygame.event.Event]) -> bool: handle events, return True to block event from cascading
